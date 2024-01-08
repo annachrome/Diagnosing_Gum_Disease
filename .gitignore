@@ -1,6 +1,12 @@
 ogbn*
 ogbg*
+<<<<<<< HEAD
 **/.DS_Store
 .enzymes/
 dataset/
+=======
+.enzymes/
+dataset/
+.DS_Store
+>>>>>>> d4df8c1 (Update gitignore)
 
