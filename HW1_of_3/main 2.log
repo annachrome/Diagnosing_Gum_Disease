@@ -1,19 +1,10 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.14)  17 DEC 2023 21:08
-=======
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.14)  17 DEC 2023 22:13
->>>>>>> b4fa94f (Colab 2)
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.14)  14 DEC 2023 20:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-<<<<<<< HEAD
 **/Users/choianna5/Documents/PROGRAMMING/Graphs_and_ML/Stanford-ML-with-Graphs-Coursework/CS_224W_Fall_2023_HW1-template/main.tex
 (/Users/choianna5/Documents/PROGRAMMING/Graphs_and_ML/Stanford-ML-with-Graphs-Coursework/CS_224W_Fall_2023_HW1-template/main.tex
-=======
-**/Users/choianna5/Documents/PROGRAMMING/Graphs_and_ML/Stanford-ML-with-Graphs-Coursework/HW1_of_3/main.tex
-(/Users/choianna5/Documents/PROGRAMMING/Graphs_and_ML/Stanford-ML-with-Graphs-Coursework/HW1_of_3/main.tex
->>>>>>> b4fa94f (Colab 2)
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -528,7 +519,8 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count309
 \l__pdf_internal_box=\box74
-) (./main.aux)
+)
+No file main.aux.
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
@@ -549,7 +541,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
- (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count310
 \scratchdimen=\dimen268
@@ -564,7 +556,6 @@ LaTeX Font Info:    ... okay on input line 25.
 \everyMPtoPDFconversion=\toks40
 )
 Package hyperref Info: Link coloring ON on input line 25.
- (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
@@ -576,166 +567,261 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 28.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<CS224W_Homework1/gnn-architecture.png, id=88, 1292.83pt x 513.92pt>
+
+LaTeX Warning: No \author given.
+
+
+LaTeX Warning: Reference `fig:Q4-gnn-architecture' on page 1 undefined on input line 37.
+
+<CS224W_Homework1/gnn-architecture.png, id=7, 1292.83pt x 513.92pt>
 File: CS224W_Homework1/gnn-architecture.png Graphic file (type png)
 <use CS224W_Homework1/gnn-architecture.png>
 Package pdftex.def Info: CS224W_Homework1/gnn-architecture.png  used on input line 41.
 (pdftex.def)             Requested size: 241.49895pt x 95.99904pt.
- [1
+[1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-<CS224W_Homework1/algorithm.png, id=105, 1160.335pt x 652.4375pt>
+<CS224W_Homework1/algorithm.png, id=24, 1160.335pt x 652.4375pt>
 File: CS224W_Homework1/algorithm.png Graphic file (type png)
 <use CS224W_Homework1/algorithm.png>
 Package pdftex.def Info: CS224W_Homework1/algorithm.png  used on input line 67.
 (pdftex.def)             Requested size: 345.0pt x 193.99055pt.
  [2 <./CS224W_Homework1/gnn-architecture.png>]
-<CS224W_Homework1/fig4-1.png, id=114, 1034.86626pt x 626.34pt>
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+
+LaTeX Warning: Reference `fig:Q4.1' on page 3 undefined on input line 75.
+
+
+/Users/choianna5/Documents/PROGRAMMING/Graphs_and_ML/Stanford-ML-with-Graphs-Coursework/CS_224W_Fall_2023_HW1-template/main.tex:81: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.81 \\\\
+         \\\\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/choianna5/Documents/PROGRAMMING/Graphs_and_ML/Stanford-ML-with-Graphs-Coursework/CS_224W_Fall_2023_HW1-template/main.tex:81: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.81 \\\\\\
+           \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/choianna5/Documents/PROGRAMMING/Graphs_and_ML/Stanford-ML-with-Graphs-Coursework/CS_224W_Fall_2023_HW1-template/main.tex:81: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.81 \\\\\\\\
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+/Users/choianna5/Documents/PROGRAMMING/Graphs_and_ML/Stanford-ML-with-Graphs-Coursework/CS_224W_Fall_2023_HW1-template/main.tex:82: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.82 \begin
+           {figure}[!htb]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<CS224W_Homework1/fig4-1.png, id=34, 1034.86626pt x 626.34pt>
 File: CS224W_Homework1/fig4-1.png Graphic file (type png)
 <use CS224W_Homework1/fig4-1.png>
-Package pdftex.def Info: CS224W_Homework1/fig4-1.png  used on input line 76.
+Package pdftex.def Info: CS224W_Homework1/fig4-1.png  used on input line 84.
 (pdftex.def)             Requested size: 207.0021pt x 125.28488pt.
 
-Overfull \hbox (11.11171pt too wide) in paragraph at lines 80--85
-[]\OT1/cmr/m/n/10 Consider the fol-low-ing 2 graphs in fig-ure [][]1.2[][], where all nodes have 1-dimensional
- []
-
-[3 <./CS224W_Homework1/algorithm.png> <./CS224W_Homework1/fig4-1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 87--88
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
 
  []
 
-LaTeX Font Info:    Trying to load font information for OMS+cmss on input line 90.
-LaTeX Font Info:    No file OMScmss.fd. on input line 90.
+LaTeX Font Info:    Trying to load font information for OMS+cmss on input line 92.
+LaTeX Font Info:    No file OMScmss.fd. on input line 92.
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbraceleft' on input line 90.
+(Font)              for symbol `textbraceleft' on input line 92.
 
-<CS224W_Homework1/fig4-2.png, id=124, 569.12625pt x 397.485pt>
+
+LaTeX Warning: Reference `fig:Q4.2' on page 3 undefined on input line 96.
+
+[3 <./CS224W_Homework1/algorithm.png>]
+<CS224W_Homework1/fig4-2.png, id=44, 569.12625pt x 397.485pt>
 File: CS224W_Homework1/fig4-2.png Graphic file (type png)
 <use CS224W_Homework1/fig4-2.png>
-Package pdftex.def Info: CS224W_Homework1/fig4-2.png  used on input line 102.
+Package pdftex.def Info: CS224W_Homework1/fig4-2.png  used on input line 104.
 (pdftex.def)             Requested size: 172.5pt x 120.47763pt.
-[4 <./CS224W_Homework1/fig4-2.png>] [5] [6]
-Underfull \hbox (badness 10000) in paragraph at lines 175--178
+
+/Users/choianna5/Documents/PROGRAMMING/Graphs_and_ML/Stanford-ML-with-Graphs-Coursework/CS_224W_Fall_2023_HW1-template/main.tex:118: Missing $ inserted.
+<inserted text> 
+                $
+l.118 ...ber of nodes to get $[.25,.25,.25,.25]$.}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/choianna5/Documents/PROGRAMMING/Graphs_and_ML/Stanford-ML-with-Graphs-Coursework/CS_224W_Fall_2023_HW1-template/main.tex:118: Missing $ inserted.
+<inserted text> 
+                $
+l.118 ...ber of nodes to get $[.25,.25,.25,.25]$.}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[4 <./CS224W_Homework1/fig4-1.png> <./CS224W_Homework1/fig4-2.png>] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 164--167
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--184
+Underfull \hbox (badness 10000) in paragraph at lines 168--171
+
+ []
+
+[6]
+
+LaTeX Warning: Reference `fig:10-node' on page 7 undefined on input line 203.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--204
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--204
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--204
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--204
 
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 214--224
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 214--224
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 214--224
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 214--224
-
- []
-
-[8]
-<CS224W_Homework1/fig5.png, id=158, 439.6425pt x 226.8475pt>
+<CS224W_Homework1/fig5.png, id=82, 439.6425pt x 226.8475pt>
 File: CS224W_Homework1/fig5.png Graphic file (type png)
 <use CS224W_Homework1/fig5.png>
-Package pdftex.def Info: CS224W_Homework1/fig5.png  used on input line 239.
+Package pdftex.def Info: CS224W_Homework1/fig5.png  used on input line 207.
 (pdftex.def)             Requested size: 207.0021pt x 106.8087pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 244--245
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 244--245
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 244--245
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 244--245
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
 
  []
 
-[9 <./CS224W_Homework1/fig5.png>] [10]
-<CS224W_Homework1/fig1.png, id=172, 281.05pt x 131.49126pt>
+
+LaTeX Warning: Reference `fig:10-node' on page 8 undefined on input line 214.
+
+[8 <./CS224W_Homework1/fig5.png>]
+
+LaTeX Warning: Reference `fig:10-node' on page 9 undefined on input line 224.
+
+<CS224W_Homework1/fig1.png, id=91, 281.05pt x 131.49126pt>
 File: CS224W_Homework1/fig1.png Graphic file (type png)
 <use CS224W_Homework1/fig1.png>
-Package pdftex.def Info: CS224W_Homework1/fig1.png  used on input line 300.
+Package pdftex.def Info: CS224W_Homework1/fig1.png  used on input line 264.
 (pdftex.def)             Requested size: 172.5pt x 80.70511pt.
-
-Overfull \hbox (20.09096pt too wide) detected at line 315
+[9]
+Overfull \hbox (20.09096pt too wide) detected at line 278
 [][]
  []
 
-[11 <./CS224W_Homework1/fig1.png>]
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-[12]
-<CS224W_Homework1/algo-3.png, id=185, 887.315pt x 370.38374pt>
+[10 <./CS224W_Homework1/fig1.png>]
+<CS224W_Homework1/algo-3.png, id=108, 887.315pt x 370.38374pt>
 File: CS224W_Homework1/algo-3.png Graphic file (type png)
 <use CS224W_Homework1/algo-3.png>
-Package pdftex.def Info: CS224W_Homework1/algo-3.png  used on input line 375.
+Package pdftex.def Info: CS224W_Homework1/algo-3.png  used on input line 292.
 (pdftex.def)             Requested size: 345.0pt x 144.00824pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 382--383
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 384--385
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
 
  []
 
-[13 <./CS224W_Homework1/algo-3.png>] [14] (./main.aux)
+[11 <./CS224W_Homework1/algo-3.png>] (./main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: EB7BB91C16664C3A33627CC0DA3E493F;5195.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  EB7BB91C16664C3A33627CC0DA3E493F;5195.
  ) 
 Here is how much of TeX's memory you used:
- 21526 strings out of 476025
-<<<<<<< HEAD
- 402737 string characters out of 5790016
-=======
- 402671 string characters out of 5790016
->>>>>>> b4fa94f (Colab 2)
+ 21414 strings out of 476025
+ 400602 string characters out of 5790016
  1863388 words of memory out of 5000000
- 41552 multiletter control sequences out of 15000+600000
+ 41451 multiletter control sequences out of 15000+600000
  521430 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
-<<<<<<< HEAD
- 84i,10n,89p,960b,847s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,10n,89p,962b,505s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on main.pdf (14 pages, 1187101 bytes).
+Output written on main.pdf (11 pages, 1167834 bytes).
 PDF statistics:
- 286 PDF objects out of 1000 (max. 8388607)
- 217 compressed objects within 3 object streams
-=======
- 84i,10n,89p,938b,847s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on main.pdf (14 pages, 1187277 bytes).
-PDF statistics:
- 287 PDF objects out of 1000 (max. 8388607)
- 218 compressed objects within 3 object streams
->>>>>>> b4fa94f (Colab 2)
- 44 named destinations out of 1000 (max. 500000)
- 208 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 202 PDF objects out of 1000 (max. 8388607)
+ 137 compressed objects within 2 object streams
+ 39 named destinations out of 1000 (max. 500000)
+ 48 words of extra memory for PDF output out of 10000 (max. 10000000)
 

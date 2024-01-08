@@ -1,0 +1,6 @@
+ogbn*
+ogbg*
+**/.DS_Store
+.enzymes/
+dataset/
+

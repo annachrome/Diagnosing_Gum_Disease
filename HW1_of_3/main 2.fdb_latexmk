@@ -1,11 +1,6 @@
 # Fdb version 4
-<<<<<<< HEAD
-["pdflatex"] 1702876091 "/Users/choianna5/Documents/PROGRAMMING/Graphs_and_ML/Stanford-ML-with-Graphs-Coursework/CS_224W_Fall_2023_HW1-template/main.tex" "main.pdf" "main" 1702876092 0
-  "/Users/choianna5/Documents/PROGRAMMING/Graphs_and_ML/Stanford-ML-with-Graphs-Coursework/CS_224W_Fall_2023_HW1-template/main.tex" 1702876089 29100 2af87a7d7fae20b04875aaff5268f22c ""
-=======
-["pdflatex"] 1702880007 "/Users/choianna5/Documents/PROGRAMMING/Graphs_and_ML/Stanford-ML-with-Graphs-Coursework/HW1_of_3/main.tex" "main.pdf" "main" 1702880009 0
-  "/Users/choianna5/Documents/PROGRAMMING/Graphs_and_ML/Stanford-ML-with-Graphs-Coursework/HW1_of_3/main.tex" 1702880007 29175 c8a914d722fa16eb54a0db581c7e75a5 ""
->>>>>>> b4fa94f (Colab 2)
+["pdflatex"] 1702614477 "/Users/choianna5/Documents/PROGRAMMING/Graphs_and_ML/Stanford-ML-with-Graphs-Coursework/CS_224W_Fall_2023_HW1-template/main.tex" "main.pdf" "main" 1702614478 2
+  "/Users/choianna5/Documents/PROGRAMMING/Graphs_and_ML/Stanford-ML-with-Graphs-Coursework/CS_224W_Fall_2023_HW1-template/main.tex" 1702614475 22165 1ed298b17c046bc9749363c775d93540 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -183,7 +178,6 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1702610052 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1702610042 7883464 c6d69de9cf6911176e39c6ab41e54b30 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-<<<<<<< HEAD
   "CS224W_Homework1/algo-3.png" 1696520160 230647 59aa76cccfa82d0c85b10d9a30156d2a ""
   "CS224W_Homework1/algorithm.png" 1696520162 336804 4cd87e5434316f3e12fc3df0f1abf7e1 ""
   "CS224W_Homework1/fig1.png" 1696520162 13779 01f535cd943ce3acc5ed8fb05317e5af ""
@@ -191,21 +185,9 @@
   "CS224W_Homework1/fig4-2.png" 1696520162 41614 1a413ed8dd3b58475308cef76a2e7e57 ""
   "CS224W_Homework1/fig5.png" 1696520162 164376 3c2dea6da4eb29c5d7f533c393f0d97d ""
   "CS224W_Homework1/gnn-architecture.png" 1696520160 422967 7069216ebc98a5e39c06b45ae24bc7c6 ""
-  "main.aux" 1702876092 4647 d995949578814adba62f27edbda93cd5 "pdflatex"
-  "main.out" 1702876092 5195 eb7bb91c16664c3a33627cc0da3e493f "pdflatex"
-  "main.tex" 1702876089 29100 2af87a7d7fae20b04875aaff5268f22c ""
-=======
-  "CS224W_Homework1/algo-3.png" 1702876706 230647 59aa76cccfa82d0c85b10d9a30156d2a ""
-  "CS224W_Homework1/algorithm.png" 1702876706 336804 4cd87e5434316f3e12fc3df0f1abf7e1 ""
-  "CS224W_Homework1/fig1.png" 1702876706 13779 01f535cd943ce3acc5ed8fb05317e5af ""
-  "CS224W_Homework1/fig4-1.png" 1702876706 132551 6f6eb5dc311469c6c0f8f560a61cefe9 ""
-  "CS224W_Homework1/fig4-2.png" 1702876706 41614 1a413ed8dd3b58475308cef76a2e7e57 ""
-  "CS224W_Homework1/fig5.png" 1702876706 164376 3c2dea6da4eb29c5d7f533c393f0d97d ""
-  "CS224W_Homework1/gnn-architecture.png" 1702876706 422967 7069216ebc98a5e39c06b45ae24bc7c6 ""
-  "main.aux" 1702880008 4647 d995949578814adba62f27edbda93cd5 "pdflatex"
-  "main.out" 1702880008 5195 eb7bb91c16664c3a33627cc0da3e493f "pdflatex"
-  "main.tex" 1702880007 29175 c8a914d722fa16eb54a0db581c7e75a5 ""
->>>>>>> b4fa94f (Colab 2)
+  "main.aux" 1702614478 4434 68be38cc78399b842ba41fab4c9ca5ea "pdflatex"
+  "main.out" 1702614478 5195 eb7bb91c16664c3a33627cc0da3e493f "pdflatex"
+  "main.tex" 1702614475 22165 1ed298b17c046bc9749363c775d93540 ""
   (generated)
   "main.aux"
   "main.log"
